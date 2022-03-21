@@ -3,8 +3,8 @@
 ## About The Project
 Build website use react
 
-## Course guide
-[**Link to the course guide**](https://fullstack.edu.vn/blog/phan-1-tao-du-an-reactjs-voi-webpack-va-babel.html)
-
 ## Author
-[**Trinh Minh Nhat**](https://github.com/trinhminhnhat)
+[**Trịnh Minh Nhật**](https://github.com/trinhminhnhat)
+
+## References
+[**https://fullstack.edu.vn/**](https://fullstack.edu.vn/blog/phan-1-tao-du-an-reactjs-voi-webpack-va-babel.html)
